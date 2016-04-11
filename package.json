@@ -30,7 +30,7 @@
     ],
     "dependencies": {
         "ansi": "^0.3.0",
-        "cordova-lib": "git+https://github.com/jfrumar/cordova-lib.git",
+        "cordova-lib": "git+https://github.com/jfrumar/cordova-lib.git/cordova-lib",
         "cordova-common": "^1.1.0",
         "q": "1.0.1",
         "nopt": "3.0.1",
